@@ -1,0 +1,10 @@
+[package]
+name = "constantine-rs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rlibc = "1.0.0"
+
+[build-dependencies]
+cc = "*"

@@ -1,0 +1,3 @@
+[submodule "constantine"]
+	path = constantine
+	url = git@github.com:mratsim/constantine.git
